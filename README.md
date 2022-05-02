@@ -1,4 +1,4 @@
-# MariaDB_Installer ✅ ![](https://progress-bar.dev/90/?title=Ubuntu) ❌ ![](https://progress-bar.dev/10/?title=Centos)
+# MariaDB_Installer ✅ ![](https://progress-bar.dev/100/?title=Ubuntu) ❌ ![](https://progress-bar.dev/10/?title=Centos)
 
 Download and convert to executable:
 
